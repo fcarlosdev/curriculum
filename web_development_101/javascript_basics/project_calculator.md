@@ -44,6 +44,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [John Kripp's Solution](https://github.com/JohnKripp/TOP-Calculator) - [View in Browser](https://johnkripp.github.io/TOP-Calculator/)
 - [Sizigia's Solution](https://github.com/sizigia/javascript-calculator) - [View in Browser](https://sizigia.github.io/javascript-calculator/)
 - [Jose Salvador's Solution](https://github.com/Jsalvadorpp/calculator) - [View in Browser](https://jsalvadorpp.github.io/calculator/)
 - [Dylan's Solution](https://github.com/proto-dylan/Calculator) - [View in Browser](https://proto-dylan.github.io/Calculator/)
@@ -287,4 +288,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Arthur Johnson's solution](https://github.com/MoonKingArthur/online-calculator) - [View in Browser](https://moonkingarthur.github.io/online-calculator/)
 - [Doug Heatter's solution](https://github.com/drheatter/Calculator) - [View in Browser](https://drheatter.github.io/Calculator/)
 - [Nyaga Roy's solution](https://github.com/RoyNyaga/Calculator-in-javascript) - [View in Browser](https://roynyaga.github.io/Calculator-in-javascript/)
+- [Tristan Ross's solution](https://github.com/TristanRoss/WebCalculator) - [View in Browser](https://tristanross.github.io/WebCalculator/)
 </details>
